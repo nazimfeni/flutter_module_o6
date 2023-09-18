@@ -189,9 +189,11 @@ class _MyWidgetState extends State<MyWidget> {
               MySnackBar("Photos Uploaded Successfully!", context);
             },
             child: Icon(Icons.upload),
-          ),
-        ),
 
+          ),
+
+        ),
+        SizedBox(height: 40.0),
 
       ],
     );
