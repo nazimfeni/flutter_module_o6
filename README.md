@@ -1,6 +1,7 @@
 # flutter_module_o6
 
 A new Flutter project.
+<img src="https://github.com/nazimfeni/flutter_module_06_live_test1/blob/master/screenshots/Screenshot.png" width="200" height="400" alt="Image Description">
 
 ## Getting Started
 
